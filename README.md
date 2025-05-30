@@ -1,4 +1,4 @@
 # Demo
 demo Repository
 <br>
-Auhtor - Yash Mahindroo
+Author - Yash Mahindroo
